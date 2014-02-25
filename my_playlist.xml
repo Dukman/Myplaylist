@@ -1,0 +1,54 @@
+##########################################################################################################
+
+									- XBMC iSTREAM PLAYLIST TOOLKIT -
+												By:@mefrox
+
+												
+##########################################################################################################
+												MY_PLAYLIST.XML
+##########################################################################################################
+#START#
+#TITLE+BACKGROUND#
+<poster>Dukman's uber list</poster>
+<thumbnail>http://is.gd/ex_thumb_istream</thumbnail>
+<fanart>http://www.mediafire.com/view/e0984fmgbfp1xig/xunity.jpg</fanart>
+
+#SEPERATOR - DELETE IF YOU WISH#
+<info>
+<message>TV Shows </message>
+</info>
+
+#DIR#
+<dir>
+<name></name>
+<thumbnail></thumbnail>
+<link></link> 
+</dir>
+
+<info>
+<message>[COLOR royalblue]EXAMPLE 5 - msg with thumbnail and color name.[/COLOR]</message>
+</info>
+
+#ITEM#
+<item>
+<title>HGWT 1x01</title>
+<link>http://vidto.me/h6hfc3ukt98l</link>
+<thumbnail>http://www.mediafire.com/view/naito1hzbxxh8uw/Have_Gun,_Will_Travel.jpg</thumbnail>
+</item>
+
+<item>
+<title>next one</title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+#YOUTUBE_FEEDS#
+<item>
+<name></name>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+#END#

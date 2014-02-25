@@ -1,7 +1,7 @@
 ##########################################################################################################
 
 									- XBMC iSTREAM PLAYLIST TOOLKIT -
-												By:@mefrox
+												By:Dukman
 
 												
 ##########################################################################################################
@@ -11,48 +11,27 @@
 #TITLE+BACKGROUND#
 <poster>Dukman's list</poster>
 <thumbnail>http://i73.photobucket.com/albums/i211/Dukman777/13_zps4ae55737.jpg</thumbnail>
-<fanart>http://i73.photobucket.com/albums/i211/Dukman777/Dukmanbw_zps54267ae0.jpg</fanart>
+<fanart>http://i73.photobucket.com/albums/i211/Dukman777/fanartdukman_zpse3e5072d.jpg</fanart>
 
 #SEPERATOR - DELETE IF YOU WISH#
 <info>
-<message>TV Shows </message>
+<message> [COLOR darkmagenta]- - - - For your enjoyment only[/COLOR] </message>
+<message>[COLOR blue]- - - - - - Watch for more - - - - - -[/COLOR]</message>
 </info>
 
-#DIR#
+#DIR1
 <dir>
-<name>Have Gun Will Travel</name>
-<thumbnail>http://www.mediafire.com/view/naito1hzbxxh8uw/Have_Gun,_Will_Travel.jpg</thumbnail>
+<name>Movies</name>
+<thumbnail>http://i73.photobucket.com/albums/i211/Dukman777/comingsoon_zps3e0ec780.jpg</thumbnail>
 <link></link> 
 </dir>
 
-<info>
-<message>[COLOR royalblue]EXAMPLE 5 - msg with thumbnail and color name.[/COLOR]</message>
-</info>
-
-#ITEM#
-<item>
-<title>Have Gun Will Travel 1x01</title>
-<link>http://vidto.me/h6hfc3ukt98l</link>
-<thumbnail>http://i73.photobucket.com/albums/i211/Dukman777/HaveGunWilTravel_zps89e6f8d5.jpg</thumbnail>
-</item>
-
-<item>
-<title>Have Gun Will Travel 1x02</title>
-<link>http://vidto.me/fvhf6gvm15te</link>
-<thumbnail>http://i73.photobucket.com/albums/i211/Dukman777/HaveGunWilTravel_zps89e6f8d5.jpg</thumbnail>
-</item>
-
-<item>
-<title>Have Gun Will Travel 1x03</title>
-<link>http://vidto.me/4rf2gk6tu3zf.html</link>
-<thumbnail>http://i73.photobucket.com/albums/i211/Dukman777/HaveGunWilTravel_zps89e6f8d5.jpg</thumbnail>
-</item>
-#YOUTUBE_FEEDS#
-<item>
-<name></name>
-<link></link>
-<thumbnail></thumbnail>
-</item>
+#DIR2
+<dir>
+<name>TV Shows</name>
+<thumbnail>http://i73.photobucket.com/albums/i211/Dukman777/tv1_zps161395bb.jpg</thumbnail>
+<link>https://raw.github.com/Dukman/Myplaylist/master/tvshows.xml</link> 
+</dir>
 
 
 

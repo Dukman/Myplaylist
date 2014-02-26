@@ -1,6 +1,10 @@
 <poster>Dukman Movie Collections</poster>
 #ITEM1
 #Collections#
+<info>
+<message>[COLOR blue]- - - - - - Watch for more - - - - - -[/COLOR]</message>
+</info>
+
 <dir>
 <name>Charlie Chan Collection</name>
 <link>https://raw.github.com/Dukman/Myplaylist/master/charliechan.xml</link>

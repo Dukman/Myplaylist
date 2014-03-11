@@ -17,7 +17,6 @@
 
 #SEPERATOR - DELETE IF YOU WISH#
 <info>
-<fanart>http://i73.photobucket.com/albums/i211/Dukman777/DukmansPlaylist2_zps3fd16adb.jpg</fanart>
 <message> [COLOR palegreen]- - - - For your enjoyment only[/COLOR] </message>
 <message>[COLOR blue]- - - - - - More coming soon - - - - - -[/COLOR]</message>
 </info>
@@ -25,7 +24,6 @@
 #DIR1
 <dir>
 <name>Movies</name>
-<fanart>http://i73.photobucket.com/albums/i211/Dukman777/DukmansPlaylist2_zps3fd16adb.jpg</fanart>
 <thumbnail>http://i73.photobucket.com/albums/i211/Dukman777/movies1_zpsae8a5643.jpg</thumbnail>
 <link>https://raw.github.com/Dukman/Myplaylist/master/Movies/moviecollection.xml</link> 
 </dir>

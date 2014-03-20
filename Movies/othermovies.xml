@@ -8,6 +8,12 @@
 <message> [COLOR lime]Unusual[/COLOR] </message>
 </info>
 
+#ITEMX
+<item>
+<title>[COLOR mistyrose]Black Dragons (1942)[/COLOR] </title>
+<link>http://daisy.tvvoid.com/Retrovision-BlackDragonsmpeg317.m4v</link>
+<thumbnail>http://i73.photobucket.com/albums/i211/Dukman777/BlackDragon1942_zps05a71981.jpg</thumbnail>
+
 #ITEM1
 <item>
 
@@ -56,6 +62,7 @@
 <title>[COLOR lime]test[/COLOR] </title>
 <link>fake</link>
 <thumbnail></thumbnail>
+
 
 
 </item>

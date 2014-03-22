@@ -1,8 +1,11 @@
 <poster>Dukman - Serials</poster>
 #ITEM1
 #Serials#
+<poster>[COLOR coral]Serials[/COLOR]</poster>
+<fanart>http://i73.photobucket.com/albums/i211/Dukman777/Movies/freakshdfanart_zpsa2cc2490.jpg</fanart>
+
 <dir>
-<name>[COLOR yellow]Chick Carter Detective[/COLOR]</name>
+<name>Chick Carter Detective</name>
 <link>https://raw.githubusercontent.com/Dukman/Myplaylist/master/Serials/CCD.xml</link>
 <thumbnail>http://i73.photobucket.com/albums/i211/Dukman777/ccdthumbnail_zps8e9701d2.jpg</thumbnail>
 </dir>

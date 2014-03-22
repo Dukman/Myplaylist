@@ -4,8 +4,15 @@
 <poster>[COLOR coral]Serials[/COLOR]</poster>
 <fanart>http://i73.photobucket.com/albums/i211/Dukman777/Movies/freakshdfanart_zpsa2cc2490.jpg</fanart>
 
+<info>
+<message>[COLOR cornsilk]Chick Carter Detective[/COLOR]</message>
+</info>
+<info>
+<message>[COLOR lime].... a real oldie[/COLOR]</message>
+</info>
+
 <dir>
-<name>Chick Carter Detective</name>
+<name>[COLOR lime]Chick Carter Detective[/COLOR]</name>
 <link>https://raw.githubusercontent.com/Dukman/Myplaylist/master/Serials/CCD.xml</link>
 <thumbnail>http://i73.photobucket.com/albums/i211/Dukman777/ccdthumbnail_zps8e9701d2.jpg</thumbnail>
 </dir>

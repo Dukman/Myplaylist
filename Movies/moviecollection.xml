@@ -1,9 +1,16 @@
-<poster>Dukman - SERIALS</poster>
+<poster>Dukman - Movie Collections</poster>
 #ITEM1
 #Collections#
 <info>
 <message>[COLOR blue]- - - - - - Watch for more - - - - - -[/COLOR]</message>
 </info>
+
+<dir>
+<name>[COLOR palegreen]Charlie Chan Collection[/COLOR][COLOR lime][/COLOR]</name>
+<link>https://raw.github.com/Dukman/Myplaylist/master/Movies/charliechan.xml</link>
+<fanart>http://i73.photobucket.com/albums/i211/Dukman777/CharlieChansSecret1936_zps46f7220c.jpg</fanart>
+<thumbnail>http://i73.photobucket.com/albums/i211/Dukman777/CharlieChanCollection_zps70f3ca21.jpg</thumbnail>
+</dir>
 
 <dir>
 <name>[COLOR palegreen]Sherlock Holmes Collection[/COLOR][COLOR lime]    .....Elementary[/COLOR]</name>

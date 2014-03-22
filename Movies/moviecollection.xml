@@ -1,4 +1,4 @@
-<poster>Dukman Movie Collections</poster>
+<poster>Dukman - SERIALS</poster>
 #ITEM1
 #Collections#
 <info>
@@ -6,9 +6,9 @@
 </info>
 
 <dir>
-<name>Charlie Chan Collection</name>
-<link>https://raw.github.com/Dukman/Myplaylist/master/Movies/charliechan.xml</link>
-<thumbnail>http://i73.photobucket.com/albums/i211/Dukman777/CharlieChanCollection_zps70f3ca21.jpg</thumbnail>
+<name>Chick Carter Detective</name>
+<link>https://raw.githubusercontent.com/Dukman/Myplaylist/master/Serials/CCD.xml</link>
+<thumbnail>http://i73.photobucket.com/albums/i211/Dukman777/ccdthumbnail_zps8e9701d2.jpg</thumbnail>
 </dir>
 
 <dir>

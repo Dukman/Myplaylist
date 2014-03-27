@@ -4,6 +4,7 @@
 <info>
 <message>[COLOR blue]- - - - - - Watch for more - - - - - -[/COLOR]</message>
 <message>[COLOR hotpink]It's a crime, I tell ya![/COLOR]</message>
+<message>[COLOR indigo]Report broken links to someone who cares![/COLOR]</message>
 </info>
 
 <dir>
@@ -35,7 +36,7 @@
 </dir>
 
 <dir>
-<name>[COLOR palegreen]Dick Tracy Collection[/COLOR][COLOR lime]     ....10-4 Eleanor[/COLOR]</name>
+<name>[COLOR palegreen]Dick Tracy Collection   [/COLOR][COLOR lime]     ....10-4 Eleanor[/COLOR]</name>
 <link>https://raw.githubusercontent.com/Dukman/Myplaylist/master/Movies/DickTracy.xml</link>
 <fanart>http://i73.photobucket.com/albums/i211/Dukman777/DickTracy1945-fanart_zps4389b27f.jpg</fanart>
 <thumbnail>http://i73.photobucket.com/albums/i211/Dukman777/DickTracythumb_zps6631320c.jpg</thumbnail>

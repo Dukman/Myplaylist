@@ -2,7 +2,7 @@
 #Se01
 <fanart>http://i73.photobucket.com/albums/i211/Dukman777/Highwaypatrol-fanart2_zps96f728b3.jpg</fanart>
 <dir>
-<name>Season 1</name>
+<name>[COLOR honeydew]Season 1[/COLOR]</name>
 <link>https://raw.githubusercontent.com/Dukman/Myplaylist/master/TV/episodeshp01.xml</link>
 <thumbnail>http://i73.photobucket.com/albums/i211/Dukman777/HighwayPatrol-poster1_zpsff0783a8.jpg</thumbnail>
 </dir>
@@ -10,8 +10,8 @@
 #Se02
 <dir>
 <name>Season 2[COLOR springgreen]....in progress[/COLOR]</name>
-<link>link</link>
-<thumbnail></thumbnail>
+<link>https://raw.githubusercontent.com/Dukman/Myplaylist/master/TV/episodeshp02.xml</link>
+<thumbnail>http://i73.photobucket.com/albums/i211/Dukman777/HighwayPatrol-poster1_zpsff0783a8.jpg</thumbnail>
 </dir>
 
 #Se03

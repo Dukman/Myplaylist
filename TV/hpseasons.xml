@@ -1,5 +1,8 @@
 <poster>Dukman - Highway Patrol</poster>
-#Se01
+<info>
+<message>[COLOR cornsilk]HIGHWAY PATROL[/COLOR]</message>
+</info>
+
 <fanart>http://i73.photobucket.com/albums/i211/Dukman777/Highwaypatrol-fanart2_zps96f728b3.jpg</fanart>
 <dir>
 <name>[COLOR honeydew]Season 1[/COLOR]</name>
@@ -16,14 +19,14 @@
 
 #Se03
 <dir>
-<name>Season 3[COLOR springgreen]   complete[/COLOR]</name>
+<name>Season 3[COLOR springgreen] .....complete[/COLOR]</name>
 <link>https://raw.githubusercontent.com/Dukman/Myplaylist/master/TV/episodeshp03.xml</link>
 <thumbnail>http://i73.photobucket.com/albums/i211/Dukman777/HighwayPatrol-poster1_zpsff0783a8.jpg</thumbnail>
 </dir>
 
 #Se04
 <dir>
-<name>Season 4[COLOR springgreen]   complete[/COLOR]</name>
+<name>Season 4[COLOR springgreen] .....complete[/COLOR]</name>
 <link>https://raw.githubusercontent.com/Dukman/Myplaylist/master/TV/episodeshp04.xml</link>
 <thumbnail>http://i73.photobucket.com/albums/i211/Dukman777/HighwayPatrol-poster1_zpsff0783a8.jpg</thumbnail>
 </dir>

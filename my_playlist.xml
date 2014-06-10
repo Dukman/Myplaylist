@@ -1,6 +1,6 @@
 ##########################################################################################################
 
-									- XBMC iSTREAM PLAYLIST TOOLKIT -
+									- XBMC iSTREAM PLAYLIST
 												By:Dukman
 
 												
@@ -21,16 +21,16 @@
 <message>[COLOR blue]- - - - - - More coming soon - - - - - -[/COLOR]</message>
 </info>
 
-#DIR1
+#DIR1 MOVIES
 <dir>
 <name>Movies</name>
 <thumbnail>http://i73.photobucket.com/albums/i211/Dukman777/movies1_zpsae8a5643.jpg</thumbnail>
 <link>https://raw.github.com/Dukman/Myplaylist/master/Movies/moviecollection.xml</link> 
 </dir>
 
-#DIR2
+#DIR2 CLASSIC TV SHOWS
 <dir>
-<name>TV Shows</name>
+<name>Classic TV Shows</name>
 <thumbnail>http://i73.photobucket.com/albums/i211/Dukman777/tv1_zps161395bb.jpg</thumbnail>
 <link>https://raw.github.com/Dukman/Myplaylist/master/TV/tvshows.xml</link> 
 </dir>

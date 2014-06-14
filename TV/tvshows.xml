@@ -8,7 +8,7 @@
 </dir>
 
 <dir>
-<name>[COLOR lime]Bourbon Street Beat[/COLOR][COLOR yellow]   ......complete[/COLOR]</name>
+<name>[COLOR orchid]Bourbon Street Beat[/COLOR][COLOR yellow]   ......complete[/COLOR]</name>
 <link>https://raw.github.com/Dukman/Myplaylist/master/TV/episodesbsb01.xml</link>
 <thumbnail>http://i73.photobucket.com/albums/i211/Dukman777/poster_zps1ef47016.jpg</thumbnail>
 </dir>
@@ -17,4 +17,10 @@
 <name>[COLOR lime]Highway Patrol[/COLOR][COLOR yellow]   complete[/COLOR]</name>
 <link>https://raw.githubusercontent.com/Dukman/Myplaylist/master/TV/hpseasons.xml</link>
 <thumbnail>http://i73.photobucket.com/albums/i211/Dukman777/HighwayPatrol-fanart1_zps79320fe7.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR lavender]Mickey Spillane's Mike Hammer (1958)[/COLOR][COLOR yellow]   complete[/COLOR]</name>
+<link>https://raw.githubusercontent.com/Dukman/Myplaylist/master/TV/episodesHammer1958.xml</link>
+<thumbnail>http://i73.photobucket.com/albums/i211/Dukman777/TV/MikeHammerposter_zps6d7aeae9.jpg</thumbnail>
 </dir>

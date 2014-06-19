@@ -35,10 +35,16 @@
 <name>[COLOR cyan]Cain's Hundred[/COLOR][COLOR yellow] .......complete[/COLOR]</name>
 <link>https://raw.githubusercontent.com/Dukman/Myplaylist/master/TV/episodesCain.xml</link>
 <thumbnail>http://i73.photobucket.com/albums/i211/Dukman777/TV/CainsHundred-poster_zpsfad99e7a.jpg</thumbnail>
-</dir
+</dir>
 
 <dir>
-<name>[COLOR darkturquoise]Dragnet (1951)[/COLOR][COLOR yellow][/COLOR]</name>
+<name>[COLOR firebrick]Dragnet (1951)[/COLOR][COLOR yellow][/COLOR]</name>
 <link>https://raw.githubusercontent.com/Dukman/Myplaylist/master/TV/episodesdragnet1951.xml</link>
 <thumbnail>http://i73.photobucket.com/albums/i211/Dukman777/TV/Dragnet1951-poster_zps087b345c.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR lime]Boris Karloff's Thriller[/COLOR][COLOR yellow] .......complete[/COLOR]</name>
+<link>https://raw.githubusercontent.com/Dukman/Myplaylist/master/TV/episodesthriller.xml</link>
+<thumbnail>http://i73.photobucket.com/albums/i211/Dukman777/TV/thriller-poster_zpsf0475661.jpg</thumbnail>
 </dir>

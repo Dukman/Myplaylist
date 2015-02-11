@@ -1,6 +1,12 @@
 <poster>Dukman Tv-Shows</poster>
 #ITEM1
 #TV Series#
+
+<info>
+<message>[COLOR blue]Moving TV to Navi-X[/COLOR]</message>
+<message>[COLOR hotpink]Search "Dukman's Vintage TV" on Navi-X...sorry for the inconvenience[/COLOR]</message>
+</info>
+
 <dir>
 <name>Have Gun, Will Travel</name>
 <link>https://raw.github.com/Dukman/Myplaylist/master/TV/hgwtseasons.xml</link>
